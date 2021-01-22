@@ -49,7 +49,7 @@
 * 菜单栏`发送消息`拷贝SCKEY；
 
 
-
+不会自动 
 ## 效果截图
 
 ![WechatIMG3](./images/WechatIMG3.jpeg)
